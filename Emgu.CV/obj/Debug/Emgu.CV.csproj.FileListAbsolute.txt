@@ -1,0 +1,35 @@
+C:\Emgu\emgucv-windows-x64-gpu 2.4.2.1777\bin\Emgu.CV.License.txt
+C:\Emgu\emgucv-windows-x64-gpu 2.4.2.1777\bin\Emgu.CV.XML
+C:\Emgu\emgucv-windows-x64-gpu 2.4.2.1777\bin\Emgu.CV.dll
+C:\Emgu\emgucv-windows-x64-gpu 2.4.2.1777\bin\Emgu.CV.pdb
+C:\Emgu\emgucv-windows-x64-gpu 2.4.2.1777\Emgu.CV\obj\Debug\ResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-x64-gpu 2.4.2.1777\Emgu.CV\obj\Debug\Emgu.CV.Properties.StringTable.resources
+C:\Emgu\emgucv-windows-x64-gpu 2.4.2.1777\Emgu.CV\obj\Debug\Emgu.CV.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-x64-gpu 2.4.2.1777\Emgu.CV\obj\Debug\Emgu.CV.dll
+C:\Emgu\emgucv-windows-x64-gpu 2.4.2.1777\Emgu.CV\obj\Debug\Emgu.CV.pdb
+D:\Desktop\final_project_0056060\bin\Emgu.CV.License.txt
+D:\Desktop\final_project_0056060\bin\Emgu.CV.XML
+D:\Desktop\final_project_0056060\bin\Emgu.CV.dll
+D:\Desktop\final_project_0056060\bin\Emgu.CV.pdb
+D:\Desktop\final_project_0056060\Emgu.CV\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\final_project_0056060\Emgu.CV\obj\Debug\Emgu.CV.Properties.StringTable.resources
+D:\Desktop\final_project_0056060\Emgu.CV\obj\Debug\Emgu.CV.csproj.GenerateResource.Cache
+D:\Desktop\final_project_0056060\Emgu.CV\obj\Debug\Emgu.CV.dll
+D:\Desktop\final_project_0056060\Emgu.CV\obj\Debug\Emgu.CV.pdb
+F:\RTSPExample\final_project_0056060\bin\Emgu.CV.License.txt
+F:\RTSPExample\final_project_0056060\bin\Emgu.CV.XML
+F:\RTSPExample\final_project_0056060\bin\Emgu.CV.dll
+F:\RTSPExample\final_project_0056060\bin\Emgu.CV.pdb
+F:\RTSPExample\final_project_0056060\Emgu.CV\obj\Debug\ResolveAssemblyReference.cache
+F:\RTSPExample\final_project_0056060\Emgu.CV\obj\Debug\Emgu.CV.Properties.StringTable.resources
+F:\RTSPExample\final_project_0056060\Emgu.CV\obj\Debug\Emgu.CV.csproj.GenerateResource.Cache
+F:\RTSPExample\final_project_0056060\Emgu.CV\obj\Debug\Emgu.CV.dll
+F:\RTSPExample\final_project_0056060\Emgu.CV\obj\Debug\Emgu.CV.pdb
+F:\RTSPExample\bin\Emgu.CV.License.txt
+F:\RTSPExample\bin\Emgu.CV.dll
+F:\RTSPExample\bin\Emgu.CV.pdb
+F:\RTSPExample\Emgu.CV\obj\Debug\ResolveAssemblyReference.cache
+F:\RTSPExample\Emgu.CV\obj\Debug\Emgu.CV.Properties.StringTable.resources
+F:\RTSPExample\Emgu.CV\obj\Debug\Emgu.CV.csproj.GenerateResource.Cache
+F:\RTSPExample\Emgu.CV\obj\Debug\Emgu.CV.dll
+F:\RTSPExample\Emgu.CV\obj\Debug\Emgu.CV.pdb

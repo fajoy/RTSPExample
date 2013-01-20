@@ -1,0 +1,17 @@
+C:\Emgu\emgucv-windows-x64-gpu 2.4.2.1777\bin\Emgu.Util.XML
+C:\Emgu\emgucv-windows-x64-gpu 2.4.2.1777\bin\Emgu.Util.dll
+C:\Emgu\emgucv-windows-x64-gpu 2.4.2.1777\bin\Emgu.Util.pdb
+C:\Emgu\emgucv-windows-x64-gpu 2.4.2.1777\Emgu.Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-x64-gpu 2.4.2.1777\Emgu.Util\obj\Debug\Emgu.Util.dll
+C:\Emgu\emgucv-windows-x64-gpu 2.4.2.1777\Emgu.Util\obj\Debug\Emgu.Util.pdb
+F:\RTSPExample\final_project_0056060\bin\Emgu.Util.XML
+F:\RTSPExample\final_project_0056060\bin\Emgu.Util.dll
+F:\RTSPExample\final_project_0056060\bin\Emgu.Util.pdb
+F:\RTSPExample\final_project_0056060\Emgu.Util\obj\Debug\ResolveAssemblyReference.cache
+F:\RTSPExample\final_project_0056060\Emgu.Util\obj\Debug\Emgu.Util.dll
+F:\RTSPExample\final_project_0056060\Emgu.Util\obj\Debug\Emgu.Util.pdb
+F:\RTSPExample\bin\Emgu.Util.dll
+F:\RTSPExample\bin\Emgu.Util.pdb
+F:\RTSPExample\Emgu.Util\obj\Debug\ResolveAssemblyReference.cache
+F:\RTSPExample\Emgu.Util\obj\Debug\Emgu.Util.dll
+F:\RTSPExample\Emgu.Util\obj\Debug\Emgu.Util.pdb

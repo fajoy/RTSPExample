@@ -1,0 +1,9 @@
+D:\Desktop\final_project_0056060\VideoServer\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\final_project_0056060\VideoServer\obj\Debug\VideoServer.Properties.Resources.resources
+D:\Desktop\final_project_0056060\VideoServer\obj\Debug\VideoServer.csproj.GenerateResource.Cache
+D:\Desktop\final_project_0056060\VideoServer\obj\Debug\VideoServer.Form1.resources
+D:\Desktop\final_project_0056060\bin\Emgu.CV.License.txt
+D:\Desktop\final_project_0056060\bin\VideoServer.exe
+D:\Desktop\final_project_0056060\bin\VideoServer.pdb
+D:\Desktop\final_project_0056060\VideoServer\obj\Debug\VideoServer.exe
+D:\Desktop\final_project_0056060\VideoServer\obj\Debug\VideoServer.pdb

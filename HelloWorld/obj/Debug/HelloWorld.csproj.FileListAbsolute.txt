@@ -1,0 +1,45 @@
+C:\Emgu\emgucv-windows-x64-gpu 2.4.2.1777\bin\Emgu.CV.License.txt
+C:\Emgu\emgucv-windows-x64-gpu 2.4.2.1777\bin\Example.HelloWorld.exe
+C:\Emgu\emgucv-windows-x64-gpu 2.4.2.1777\bin\Example.HelloWorld.pdb
+C:\Emgu\emgucv-windows-x64-gpu 2.4.2.1777\Emgu.CV.Example\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-x64-gpu 2.4.2.1777\Emgu.CV.Example\HelloWorld\obj\Debug\Example.HelloWorld.exe
+C:\Emgu\emgucv-windows-x64-gpu 2.4.2.1777\Emgu.CV.Example\HelloWorld\obj\Debug\Example.HelloWorld.pdb
+D:\Desktop\emgucv-windows-x64-gpu 2.4.2.1777\Emgu.CV.Example\HelloWorld\obj\Debug\Example.HelloWorld.exe
+D:\Desktop\emgucv-windows-x64-gpu 2.4.2.1777\Emgu.CV.Example\HelloWorld\obj\Debug\Example.HelloWorld.pdb
+D:\Desktop\emgucv-windows-x64-gpu 2.4.2.1777\Emgu.CV.Example\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\emgucv-windows-x64-gpu 2.4.2.1777\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\emgucv-windows-x64-gpu 2.4.2.1777\HelloWorld\obj\Debug\Example.HelloWorld.exe
+D:\Desktop\emgucv-windows-x64-gpu 2.4.2.1777\HelloWorld\obj\Debug\Example.HelloWorld.pdb
+D:\Desktop\bin\Emgu.CV.License.txt
+D:\Desktop\bin\Example.HelloWorld.exe
+D:\Desktop\bin\Example.HelloWorld.pdb
+D:\Desktop\emgucv-windows-x64-gpu 2.4.2.1777\test\HelloWorld\obj\Debug\Example.HelloWorld.exe
+D:\Desktop\emgucv-windows-x64-gpu 2.4.2.1777\test\HelloWorld\obj\Debug\Example.HelloWorld.pdb
+D:\Desktop\emgucv-windows-x64-gpu 2.4.2.1777\test\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\emgucv-windows-x64-gpu 2.4.2.1777\bin\Emgu.CV.License.txt
+D:\Desktop\emgucv-windows-x64-gpu 2.4.2.1777\bin\Example.HelloWorld.exe
+D:\Desktop\emgucv-windows-x64-gpu 2.4.2.1777\bin\Example.HelloWorld.pdb
+D:\Desktop\emgucv-windows-x64-gpu 2.4.2.1777\0056060\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\emgucv-windows-x64-gpu 2.4.2.1777\0056060\HelloWorld\obj\Debug\Example.HelloWorld.exe
+D:\Desktop\emgucv-windows-x64-gpu 2.4.2.1777\0056060\HelloWorld\obj\Debug\Example.HelloWorld.pdb
+D:\Desktop\final_project_0056060\final_project_0056060\HelloWorld\obj\Debug\Example.HelloWorld.exe
+D:\Desktop\final_project_0056060\final_project_0056060\HelloWorld\obj\Debug\Example.HelloWorld.pdb
+D:\Desktop\final_project_0056060\final_project_0056060\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\final_project_0056060\bin\Emgu.CV.License.txt
+D:\Desktop\final_project_0056060\bin\Example.HelloWorld.exe
+D:\Desktop\final_project_0056060\bin\Example.HelloWorld.pdb
+D:\Desktop\final_project_0056060\HelloWorld\obj\Debug\Example.HelloWorld.exe
+D:\Desktop\final_project_0056060\HelloWorld\obj\Debug\Example.HelloWorld.pdb
+D:\Desktop\final_project_0056060\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+F:\RTSPExample\final_project_0056060\bin\Emgu.CV.License.txt
+F:\RTSPExample\final_project_0056060\bin\Example.HelloWorld.exe
+F:\RTSPExample\final_project_0056060\bin\Example.HelloWorld.pdb
+F:\RTSPExample\final_project_0056060\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+F:\RTSPExample\final_project_0056060\HelloWorld\obj\Debug\Example.HelloWorld.exe
+F:\RTSPExample\final_project_0056060\HelloWorld\obj\Debug\Example.HelloWorld.pdb
+F:\RTSPExample\bin\Emgu.CV.License.txt
+F:\RTSPExample\bin\Example.HelloWorld.exe
+F:\RTSPExample\bin\Example.HelloWorld.pdb
+F:\RTSPExample\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+F:\RTSPExample\HelloWorld\obj\Debug\Example.HelloWorld.exe
+F:\RTSPExample\HelloWorld\obj\Debug\Example.HelloWorld.pdb
