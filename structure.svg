@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- 由 Microsoft Visio 11.0, SVG Export, v1.0 產生 structure.svg 頁-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="9.31828in" height="5.77498in"
+		viewBox="0 0 670.916 415.798" xml:space="preserve" color-interpolation-filters="sRGB" class="st12">
+	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {visibility:visible}
+		.st2 {fill:#cdcdcd;fill-opacity:0.5;stroke:#cdcdcd;stroke-dasharray:3.75,2.25;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;stroke-width:0.25}
+		.st3 {fill:url(#grad30-6);stroke:#404040;stroke-dasharray:3.75,2.25;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st4 {fill:#cdcdcd;fill-opacity:0.5;stroke:#cdcdcd;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;stroke-width:0.25}
+		.st5 {fill:url(#grad30-6);stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st6 {fill:#000000;font-family:Calibri;font-size:1.00001em}
+		.st7 {font-size:1em}
+		.st8 {marker-end:url(#mrkr5-89);stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st9 {fill:#404040;fill-opacity:1;stroke:#404040;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st10 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st11 {fill:#000000;font-family:Calibri;font-size:0.666664em}
+		.st12 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad30-6" v:fillPattern="30" v:foreground="#f0f0f0" v:background="#ffffff" x1="0" y1="1" x2="0" y2="0">
+			<stop offset="0" style="stop-color:#f0f0f0;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#ffffff;stop-opacity:1"/>
+		</linearGradient>
+	</defs>
+	<defs id="Markers">
+		<g id="lend5">
+			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364514 1.67301 0.372642 1.98465 1.00043 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr5-89" class="st9" v:arrowType="5" v:arrowSize="2" v:setback="6.16" refX="-6.16" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>頁-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="連接器" v:index="0"/>
+		<g id="shape31-1" v:mID="31" v:groupContext="shape" transform="translate(535.998,-313.973)">
+			<title>矩形.31</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<g id="shadow31-2" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<path d="M0 415.8 L133.23 415.8 L133.23 314.22 L0 314.22 L0 415.8 Z" class="st2"/>
+			</g>
+			<path d="M0 415.8 L133.23 415.8 L133.23 314.22 L0 314.22 L0 415.8 Z" class="st3"/>
+		</g>
+		<g id="shape30-7" v:mID="30" v:groupContext="shape" transform="translate(422.612,-313.501)">
+			<title>矩形.30</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<g id="shadow30-8" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<path d="M0 415.8 L96.38 415.8 L96.38 314.22 L0 314.22 L0 415.8 Z" class="st2"/>
+			</g>
+			<path d="M0 415.8 L96.38 415.8 L96.38 314.22 L0 314.22 L0 415.8 Z" class="st3"/>
+		</g>
+		<g id="shape29-12" v:mID="29" v:groupContext="shape" transform="translate(312.061,-313.501)">
+			<title>矩形.29</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<g id="shadow29-13" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<path d="M0 415.8 L96.38 415.8 L96.38 314.22 L0 314.22 L0 415.8 Z" class="st2"/>
+			</g>
+			<path d="M0 415.8 L96.38 415.8 L96.38 314.22 L0 314.22 L0 415.8 Z" class="st3"/>
+		</g>
+		<g id="shape3-17" v:mID="3" v:groupContext="shape" transform="translate(22.9272,-265.312)">
+			<title>矩形.3</title>
+			<desc>RTSPServer</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="131.811" cy="344.932" width="263.63" height="141.732"/>
+			<g id="shadow3-18" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<rect x="0" y="274.066" width="263.622" height="141.732" class="st4"/>
+			</g>
+			<rect x="0" y="274.066" width="263.622" height="141.732" class="st5"/>
+			<text x="4" y="348.53" class="st6" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>RTSPServer</text>		</g>
+		<g id="shape15-23" v:mID="15" v:groupContext="shape" transform="translate(136.313,-282.32)">
+			<title>矩形.15</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<g id="shadow15-24" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<path d="M0 415.8 L136.06 415.8 L136.06 359.11 L0 359.11 L0 415.8 Z" class="st2"/>
+			</g>
+			<path d="M0 415.8 L136.06 415.8 L136.06 359.11 L0 359.11 L0 415.8 Z" class="st3"/>
+		</g>
+		<g id="shape1-28" v:mID="1" v:groupContext="shape" transform="translate(0.25,-154.761)">
+			<title>矩形</title>
+			<desc>RTSPClient</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="87.874" cy="393.121" width="175.75" height="45.3543"/>
+			<g id="shadow1-29" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<rect x="0" y="370.444" width="175.748" height="45.3543" class="st4"/>
+			</g>
+			<rect x="0" y="370.444" width="175.748" height="45.3543" class="st5"/>
+			<text x="4" y="396.72" class="st6" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>RTSPClient</text>		</g>
+		<g id="shape38-34" v:mID="38" v:groupContext="shape" transform="translate(88.124,-72.5561)">
+			<title>矩形.38</title>
+			<desc>Image Queue</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="400.208" width="56.7" height="31.1811"/>
+			<g id="shadow38-35" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<rect x="0" y="384.617" width="56.6929" height="31.1811" class="st4"/>
+			</g>
+			<rect x="0" y="384.617" width="56.6929" height="31.1811" class="st5"/>
+			<text x="4" y="396.61" class="st6" v:langID="1028"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>Image<v:newlineChar/><tspan
+						x="4" dy="1.2em" class="st7">Queue</tspan></text>		</g>
+		<g id="shape2-41" v:mID="2" v:groupContext="shape" transform="translate(73.9508,-163.265)">
+			<title>矩形.2</title>
+			<desc>ClientPlayer</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="401.625" width="79.38" height="28.3465"/>
+			<g id="shadow2-42" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<rect x="0" y="387.452" width="79.3701" height="28.3465" class="st4"/>
+			</g>
+			<rect x="0" y="387.452" width="79.3701" height="28.3465" class="st5"/>
+			<text x="4" y="405.23" class="st6" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>ClientPlayer</text>		</g>
+		<g id="shape5-47" v:mID="5" v:groupContext="shape" transform="translate(159.699,-344.682)">
+			<title>矩形.5</title>
+			<desc>VideoCache</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="53.8583" cy="398.79" width="107.72" height="34.0157"/>
+			<g id="shadow5-48" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<rect x="0" y="381.783" width="107.717" height="34.0157" class="st4"/>
+			</g>
+			<rect x="0" y="381.783" width="107.717" height="34.0157" class="st5"/>
+			<text x="4" y="402.39" class="st6" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>VideoCache</text>		</g>
+		<g id="shape6-53" v:mID="6" v:groupContext="shape" transform="translate(147.652,-356.021)">
+			<title>矩形.6</title>
+			<desc>VideoCache</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="53.8583" cy="398.79" width="107.72" height="34.0157"/>
+			<g id="shadow6-54" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<rect x="0" y="381.783" width="107.717" height="34.0157" class="st4"/>
+			</g>
+			<rect x="0" y="381.783" width="107.717" height="34.0157" class="st5"/>
+			<text x="4" y="402.39" class="st6" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>VideoCache</text>		</g>
+		<g id="shape7-59" v:mID="7" v:groupContext="shape" transform="translate(159.699,-287.989)">
+			<title>矩形.7</title>
+			<desc>RTPPlayer</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="53.8583" cy="398.79" width="107.72" height="34.0157"/>
+			<g id="shadow7-60" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<rect x="0" y="381.783" width="107.717" height="34.0157" class="st4"/>
+			</g>
+			<rect x="0" y="381.783" width="107.717" height="34.0157" class="st5"/>
+			<text x="4" y="402.39" class="st6" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>RTPPlayer</text>		</g>
+		<g id="shape4-65" v:mID="4" v:groupContext="shape" transform="translate(147.652,-299.328)">
+			<title>矩形.4</title>
+			<desc>RTPPlayer</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="53.8583" cy="398.79" width="107.72" height="34.0157"/>
+			<g id="shadow4-66" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<rect x="0" y="381.783" width="107.717" height="34.0157" class="st4"/>
+			</g>
+			<rect x="0" y="381.783" width="107.717" height="34.0157" class="st5"/>
+			<text x="4" y="402.39" class="st6" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>RTPPlayer</text>		</g>
+		<g id="shape8-71" v:mID="8" v:groupContext="shape" transform="translate(354.581,-154.761)">
+			<title>矩形.8</title>
+			<desc>RTSPClient</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="87.874" cy="393.121" width="175.75" height="45.3543"/>
+			<g id="shadow8-72" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<rect x="0" y="370.444" width="175.748" height="45.3543" class="st4"/>
+			</g>
+			<rect x="0" y="370.444" width="175.748" height="45.3543" class="st5"/>
+			<text x="4" y="396.72" class="st6" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>RTSPClient</text>		</g>
+		<g id="shape9-77" v:mID="9" v:groupContext="shape" transform="translate(428.281,-163.265)">
+			<title>矩形.9</title>
+			<desc>ClientPlayer</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="401.625" width="79.38" height="28.3465"/>
+			<g id="shadow9-78" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<rect x="0" y="387.452" width="79.3701" height="28.3465" class="st4"/>
+			</g>
+			<rect x="0" y="387.452" width="79.3701" height="28.3465" class="st5"/>
+			<text x="4" y="405.23" class="st6" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>ClientPlayer</text>		</g>
+		<g id="shape10-83" v:mID="10" v:groupContext="shape" v:layerMember="0" transform="translate(213.557,-287.989)">
+			<title>動態連接器</title>
+			<desc>RTP Packet</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="100.276" cy="490.916" width="40" height="27.2035"/>
+			<path d="M0 415.8 L0 490.92 L254.41 490.92 L254.41 506.02" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="89.4536" y="481.317" width="21.6442" height="19.1997" class="st10"/>
+			<text x="94.09" y="488.52" class="st11" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>RTP<v:newlineChar/><tspan
+						x="89.45" dy="1.2em" class="st7">Packet</tspan></text>		</g>
+		<g id="shape11-93" v:mID="11" v:groupContext="shape" v:layerMember="0" transform="translate(201.51,-299.328)">
+			<title>動態連接器.11</title>
+			<desc>RTP Packet</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-11.3386" cy="502.255" width="40" height="27.2035"/>
+			<path d="M0 415.8 L0 502.25 L-87.87 502.25 L-87.87 517.35" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="-22.1606" y="492.655" width="21.6442" height="19.1997" class="st10"/>
+			<text x="-17.53" y="499.86" class="st11" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>RTP <v:newlineChar/><tspan
+						x="-22.16" dy="1.2em" class="st7">Packet</tspan></text>		</g>
+		<g id="shape13-102" v:mID="13" v:groupContext="shape" transform="translate(34.2657,-356.021)">
+			<title>矩形.13</title>
+			<desc>PlayThread</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="36.8504" cy="398.79" width="73.71" height="34.0157"/>
+			<g id="shadow13-103" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<rect x="0" y="381.783" width="73.7008" height="34.0157" class="st4"/>
+			</g>
+			<rect x="0" y="381.783" width="73.7008" height="34.0157" class="st5"/>
+			<text x="4" y="402.39" class="st6" v:langID="1028"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>PlayThread</text>		</g>
+		<g id="shape14-108" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(107.967,-373.029)">
+			<title>動態連接器.14</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 415.8 L13.5 415.8 L13.5 478.16 L22.19 478.16" class="st8"/>
+		</g>
+		<g id="shape16-114" v:mID="16" v:groupContext="shape" transform="translate(547.337,-370.194)">
+			<title>矩形.16</title>
+			<desc>VideoFile</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="53.8583" cy="398.79" width="107.72" height="34.0157"/>
+			<g id="shadow16-115" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<rect x="0" y="381.783" width="107.717" height="34.0157" class="st4"/>
+			</g>
+			<rect x="0" y="381.783" width="107.717" height="34.0157" class="st5"/>
+			<text x="4" y="402.39" class="st6" v:langID="1028"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>VideoFile</text>		</g>
+		<g id="shape12-120" v:mID="12" v:groupContext="shape" v:layerMember="0" transform="translate(547.337,-380.115)">
+			<title>動態連接器.12</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 408.71 L-39.19 408.71" class="st8"/>
+		</g>
+		<g id="shape17-126" v:mID="17" v:groupContext="shape" transform="translate(547.337,-330.509)">
+			<title>矩形.17</title>
+			<desc>VideoFile</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="53.8583" cy="398.79" width="107.72" height="34.0157"/>
+			<g id="shadow17-127" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<rect x="0" y="381.783" width="107.717" height="34.0157" class="st4"/>
+			</g>
+			<rect x="0" y="381.783" width="107.717" height="34.0157" class="st5"/>
+			<text x="4" y="402.39" class="st6" v:langID="1028"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>VideoFile</text>		</g>
+		<g id="shape18-132" v:mID="18" v:groupContext="shape" v:layerMember="0" transform="translate(547.337,-340.43)">
+			<title>動態連接器.18</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 408.71 L-39.19 408.71" class="st8"/>
+		</g>
+		<g id="shape20-138" v:mID="20" v:groupContext="shape" transform="translate(429.699,-251.139)">
+			<title>矩形.20</title>
+			<desc>FrameHelper</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="41.1024" cy="398.79" width="82.21" height="34.0157"/>
+			<g id="shadow20-139" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<rect x="0" y="381.783" width="82.2047" height="34.0157" class="st4"/>
+			</g>
+			<rect x="0" y="381.783" width="82.2047" height="34.0157" class="st5"/>
+			<text x="4" y="402.39" class="st6" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>FrameHelper</text>		</g>
+		<g id="shape21-144" v:mID="21" v:groupContext="shape" transform="translate(329.069,-330.509)">
+			<title>矩形.21</title>
+			<desc>RTP DATA</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="31.1811" cy="398.79" width="62.37" height="34.0157"/>
+			<g id="shadow21-145" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<rect x="0" y="381.783" width="62.3622" height="34.0157" class="st4"/>
+			</g>
+			<rect x="0" y="381.783" width="62.3622" height="34.0157" class="st5"/>
+			<text x="4" y="402.39" class="st6" v:langID="1028"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>RTP DATA</text>		</g>
+		<g id="shape22-150" v:mID="22" v:groupContext="shape" transform="translate(439.62,-330.509)">
+			<title>矩形.22</title>
+			<desc>JPG DATA</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="31.1811" cy="398.79" width="62.37" height="34.0157"/>
+			<g id="shadow22-151" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<rect x="0" y="381.783" width="62.3622" height="34.0157" class="st4"/>
+			</g>
+			<rect x="0" y="381.783" width="62.3622" height="34.0157" class="st5"/>
+			<text x="4" y="402.39" class="st6" v:langID="1028"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>JPG DATA</text>		</g>
+		<g id="shape23-156" v:mID="23" v:groupContext="shape" v:layerMember="0" transform="translate(439.62,-340.43)">
+			<title>動態連接器.23</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 408.71 L-42.03 408.71" class="st8"/>
+		</g>
+		<g id="shape24-162" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(329.069,-347.517)">
+			<title>動態連接器.24</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 415.8 L-21.26 415.8 L-21.26 401.63 L-55.49 401.63" class="st8"/>
+		</g>
+		<g id="shape25-168" v:mID="25" v:groupContext="shape" transform="translate(329.069,-370.194)">
+			<title>矩形.25</title>
+			<desc>RTP DATA</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="31.1811" cy="398.79" width="62.37" height="34.0157"/>
+			<g id="shadow25-169" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<rect x="0" y="381.783" width="62.3622" height="34.0157" class="st4"/>
+			</g>
+			<rect x="0" y="381.783" width="62.3622" height="34.0157" class="st5"/>
+			<text x="4" y="402.39" class="st6" v:langID="1028"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>RTP DATA</text>		</g>
+		<g id="shape26-174" v:mID="26" v:groupContext="shape" transform="translate(439.62,-370.194)">
+			<title>矩形.26</title>
+			<desc>JPG DATA</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="31.1811" cy="398.79" width="62.37" height="34.0157"/>
+			<g id="shadow26-175" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<rect x="0" y="381.783" width="62.3622" height="34.0157" class="st4"/>
+			</g>
+			<rect x="0" y="381.783" width="62.3622" height="34.0157" class="st5"/>
+			<text x="4" y="402.39" class="st6" v:langID="1028"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>JPG DATA</text>		</g>
+		<g id="shape27-180" v:mID="27" v:groupContext="shape" v:layerMember="0" transform="translate(439.62,-380.115)">
+			<title>動態連接器.27</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 408.71 L-42.03 408.71" class="st8"/>
+		</g>
+		<g id="shape28-186" v:mID="28" v:groupContext="shape" v:layerMember="0" transform="translate(329.069,-387.202)">
+			<title>動態連接器.28</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 415.8 L-21.26 415.8 L-21.26 429.97 L-67.54 429.97" class="st8"/>
+		</g>
+		<g id="shape32-192" v:mID="32" v:groupContext="shape" transform="translate(561.51,-251.139)">
+			<title>矩形.32</title>
+			<desc>Emgu CV VideoCache</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="41.1024" cy="398.79" width="82.21" height="34.0157"/>
+			<g id="shadow32-193" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<rect x="0" y="381.783" width="82.2047" height="34.0157" class="st4"/>
+			</g>
+			<rect x="0" y="381.783" width="82.2047" height="34.0157" class="st5"/>
+			<text x="4" y="395.19" class="st6" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>Emgu CV<v:newlineChar/><tspan
+						x="4" dy="1.2em" class="st7">VideoCache</tspan></text>		</g>
+		<g id="shape34-199" v:mID="34" v:groupContext="shape" v:layerMember="0" transform="translate(463.715,-285.155)">
+			<title>動態連接器.34</title>
+			<desc>Convert</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="401.625" width="40" height="17.6036"/>
+			<path d="M7.09 415.8 L7.09 393.61" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="-5.78848" y="396.825" width="25.75" height="9.59985" class="st10"/>
+			<text x="-5.79" y="404.03" class="st11" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Convert</text>		</g>
+		<g id="shape35-207" v:mID="35" v:groupContext="shape" v:layerMember="0" transform="translate(595.526,-285.155)">
+			<title>動態連接器.35</title>
+			<desc>Convert</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="401.389" width="40" height="17.6036"/>
+			<path d="M7.09 415.8 L7.09 393.14" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="-5.78848" y="396.589" width="25.75" height="9.59985" class="st10"/>
+			<text x="-5.79" y="403.79" class="st11" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Convert</text>		</g>
+		<g id="shape36-215" v:mID="36" v:groupContext="shape" transform="translate(76.7854,-1.69)">
+			<title>矩形.36</title>
+			<desc>UI PictureBox</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.685" cy="401.625" width="79.38" height="28.3465"/>
+			<g id="shadow36-216" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<rect x="0" y="387.452" width="79.3701" height="28.3465" class="st4"/>
+			</g>
+			<rect x="0" y="387.452" width="79.3701" height="28.3465" class="st5"/>
+			<text x="4" y="405.23" class="st6" v:langID="1028"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>UI PictureBox</text>		</g>
+		<g id="shape37-221" v:mID="37" v:groupContext="shape" transform="translate(14.4232,-38.5404)">
+			<title>矩形.37</title>
+			<desc>Timer</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.2598" cy="401.625" width="42.52" height="28.3465"/>
+			<g id="shadow37-222" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<rect x="0" y="387.452" width="42.5197" height="28.3465" class="st4"/>
+			</g>
+			<rect x="0" y="387.452" width="42.5197" height="28.3465" class="st5"/>
+			<text x="4" y="405.23" class="st6" v:langID="1028"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>Timer</text>		</g>
+		<g id="shape39-227" v:mID="39" v:groupContext="shape" v:layerMember="0" transform="translate(109.384,-72.5561)">
+			<title>動態連接器.39</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M7.09 415.8 L7.09 452.16" class="st8"/>
+		</g>
+		<g id="shape40-233" v:mID="40" v:groupContext="shape" v:layerMember="0" transform="translate(41.3524,-200.115)">
+			<title>動態連接器.40</title>
+			<desc>RTSP Request</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="383.2" width="40" height="27.2035"/>
+			<path d="M7.09 415.8 L7.09 356.76" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="-6.173" y="373.6" width="26.5191" height="19.1997" class="st10"/>
+			<text x="-0.94" y="380.8" class="st11" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>RTSP <v:newlineChar/><tspan
+						x="-6.17" dy="1.2em" class="st7">Request</tspan></text>		</g>
+		<g id="shape42-242" v:mID="42" v:groupContext="shape" v:layerMember="0" transform="translate(81.0374,-265.312)">
+			<title>動態連接器.42</title>
+			<desc>RTSP Response</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="448.397" width="41" height="27.2035"/>
+			<path d="M7.09 415.8 L7.09 474.84" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="-8.50686" y="438.797" width="31.1872" height="19.1997" class="st10"/>
+			<text x="-0.94" y="446" class="st11" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>RTSP <v:newlineChar/><tspan
+						x="-8.51" dy="1.2em" class="st7">Response</tspan></text>		</g>
+		<g id="shape47-251" v:mID="47" v:groupContext="shape" transform="translate(88.124,-137.753)">
+			<title>矩形.47</title>
+			<desc>RTP DATA</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="400.208" width="56.7" height="31.1811"/>
+			<g id="shadow47-252" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<rect x="0" y="384.617" width="56.6929" height="31.1811" class="st4"/>
+			</g>
+			<rect x="0" y="384.617" width="56.6929" height="31.1811" class="st5"/>
+			<text x="4" y="403.81" class="st6" v:langID="1028"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>RTP DATA</text>		</g>
+		<g id="shape48-257" v:mID="48" v:groupContext="shape" transform="translate(88.124,-103.737)">
+			<title>矩形.48</title>
+			<desc>JPG DATA</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="398.79" width="56.7" height="34.0157"/>
+			<g id="shadow48-258" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<rect x="0" y="381.783" width="56.6929" height="34.0157" class="st4"/>
+			</g>
+			<rect x="0" y="381.783" width="56.6929" height="34.0157" class="st5"/>
+			<text x="4" y="402.39" class="st6" v:langID="1028"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>JPG DATA</text>		</g>
+		<g id="shape49-263" v:mID="49" v:groupContext="shape" transform="translate(193.006,-136.336)">
+			<title>矩形.49</title>
+			<desc>RTPModel</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="38.2677" cy="398.79" width="76.54" height="34.0157"/>
+			<g id="shadow49-264" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<rect x="0" y="381.783" width="76.5354" height="34.0157" class="st4"/>
+			</g>
+			<rect x="0" y="381.783" width="76.5354" height="34.0157" class="st5"/>
+			<text x="4" y="402.39" class="st6" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>RTPModel</text>		</g>
+		<g id="shape50-269" v:mID="50" v:groupContext="shape" transform="translate(193.006,-103.737)">
+			<title>矩形.50</title>
+			<desc>FrameHelper</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="38.2677" cy="398.79" width="76.54" height="34.0157"/>
+			<g id="shadow50-270" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<rect x="0" y="381.783" width="76.5354" height="34.0157" class="st4"/>
+			</g>
+			<rect x="0" y="381.783" width="76.5354" height="34.0157" class="st5"/>
+			<text x="4" y="402.39" class="st6" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>FrameHelper</text>		</g>
+		<g id="shape51-275" v:mID="51" v:groupContext="shape" v:layerMember="0" transform="translate(193.006,-160.43)">
+			<title>動態連接器.51</title>
+			<desc>Convert</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-24.0945" cy="422.885" width="40" height="17.6036"/>
+			<path d="M0 422.88 L-42.03 422.88" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="-36.9696" y="418.085" width="25.75" height="9.59985" class="st10"/>
+			<text x="-36.97" y="425.29" class="st11" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Convert</text>		</g>
+		<g id="shape52-283" v:mID="52" v:groupContext="shape" v:layerMember="0" transform="translate(193.006,-127.832)">
+			<title>動態連接器.52</title>
+			<desc>Convert</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-24.0945" cy="422.885" width="40" height="17.6036"/>
+			<path d="M0 422.88 L-42.03 422.88" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="-36.9696" y="418.085" width="25.75" height="9.59985" class="st10"/>
+			<text x="-36.97" y="425.29" class="st11" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Convert</text>		</g>
+		<g id="shape19-291" v:mID="19" v:groupContext="shape" transform="translate(321.982,-251.139)">
+			<title>矩形.19</title>
+			<desc>RTPModel</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="38.2677" cy="398.79" width="76.54" height="34.0157"/>
+			<g id="shadow19-292" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<rect x="0" y="381.783" width="76.5354" height="34.0157" class="st4"/>
+			</g>
+			<rect x="0" y="381.783" width="76.5354" height="34.0157" class="st5"/>
+			<text x="4" y="402.39" class="st6" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>RTPModel</text>		</g>
+		<g id="shape33-297" v:mID="33" v:groupContext="shape" v:layerMember="0" transform="translate(353.163,-285.155)">
+			<title>動態連接器.33</title>
+			<desc>Convert</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="401.625" width="40" height="17.6036"/>
+			<path d="M7.09 415.8 L7.09 393.61" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="-5.78848" y="396.825" width="25.75" height="9.59985" class="st10"/>
+			<text x="-5.79" y="404.03" class="st11" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Convert</text>		</g>
+		<g id="shape53-305" v:mID="53" v:groupContext="shape" v:layerMember="0" transform="translate(56.9429,-45.627)">
+			<title>動態連接器.53</title>
+			<desc>play</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="29.7638" cy="408.712" width="40" height="17.6036"/>
+			<path d="M0 408.71 L53.37 408.71" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="23.0177" y="403.912" width="13.492" height="9.59985" class="st10"/>
+			<text x="23.02" y="411.11" class="st11" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>play</text>		</g>
+	</g>
+</svg>
