@@ -35,13 +35,13 @@ public class FrameHelper
             myEncoderParameters.Param[0] = myEncoderParameter;
         }
     }
-    static MyEncoder jgpEncoder = new MyEncoder();
+    static MyEncoder jpgEncoder = new MyEncoder();
     public static byte[] getFrameBytes(Bitmap bmp)
     {
         byte[] data;
         MemoryStream ms = new MemoryStream();
 
-        bmp.Save(ms, jgpEncoder.myEncoder, jgpEncoder.myEncoderParameters);
+        bmp.Save(ms, jpgEncoder.myEncoder, jpgEncoder.myEncoderParameters);
         int len = Convert.ToInt32(ms.Position);
         data = new byte[len];
         ms.Position = 0;
