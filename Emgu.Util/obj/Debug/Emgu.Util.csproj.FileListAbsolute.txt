@@ -16,7 +16,8 @@ F:\RTSPExample\Emgu.Util\obj\Debug\ResolveAssemblyReference.cache
 F:\RTSPExample\Emgu.Util\obj\Debug\Emgu.Util.dll
 F:\RTSPExample\Emgu.Util\obj\Debug\Emgu.Util.pdb
 Y:\RTSPExample\bin\Emgu.Util.dll
-Y:\RTSPExample\bin\Emgu.Util.pdb
+Y:\RTSPExample\bin\Emgu.Util.XML
 Y:\RTSPExample\Emgu.Util\obj\Debug\ResolveAssemblyReference.cache
 Y:\RTSPExample\Emgu.Util\obj\Debug\Emgu.Util.dll
 Y:\RTSPExample\Emgu.Util\obj\Debug\Emgu.Util.pdb
+Y:\RTSPExample\bin\Emgu.Util.pdb

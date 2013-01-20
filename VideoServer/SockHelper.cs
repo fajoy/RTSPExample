@@ -10,31 +10,6 @@ using System.Text;
 using System.Drawing.Imaging;
 
 
-public class ReaderHelper
-{
-    StreamReader sr;
-    Socket s;
-    public event Action<ReaderHelper, Socket, string> Readed;
-
-    public ReaderHelper(Socket s)
-    {
-        this.s = s;
-        sr = new StreamReader(new NetworkStream(s));
-    }
-
-    public void beginReadToEnd()
-    {
-        ThreadStart sbeginReadToEnd = new ThreadStart(_beginReadToEnd);
-        Thread t = new Thread(sbeginReadToEnd);
-        t.Start();
-    }
-    void _beginReadToEnd()
-    {
-        string str = sr.ReadToEnd();
-        Readed.Invoke(this, s, str);
-    }
-}
-
 public class TcpServer
 {
     TcpListener sock;

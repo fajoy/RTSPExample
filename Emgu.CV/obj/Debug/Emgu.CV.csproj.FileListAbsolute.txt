@@ -33,12 +33,12 @@ F:\RTSPExample\Emgu.CV\obj\Debug\Emgu.CV.Properties.StringTable.resources
 F:\RTSPExample\Emgu.CV\obj\Debug\Emgu.CV.csproj.GenerateResource.Cache
 F:\RTSPExample\Emgu.CV\obj\Debug\Emgu.CV.dll
 F:\RTSPExample\Emgu.CV\obj\Debug\Emgu.CV.pdb
+Y:\RTSPExample\bin\Emgu.CV.dll
 Y:\RTSPExample\bin\Emgu.CV.License.txt
 Y:\RTSPExample\bin\Emgu.CV.XML
-Y:\RTSPExample\bin\Emgu.CV.dll
-Y:\RTSPExample\bin\Emgu.CV.pdb
 Y:\RTSPExample\Emgu.CV\obj\Debug\ResolveAssemblyReference.cache
 Y:\RTSPExample\Emgu.CV\obj\Debug\Emgu.CV.Properties.StringTable.resources
 Y:\RTSPExample\Emgu.CV\obj\Debug\Emgu.CV.csproj.GenerateResource.Cache
 Y:\RTSPExample\Emgu.CV\obj\Debug\Emgu.CV.dll
 Y:\RTSPExample\Emgu.CV\obj\Debug\Emgu.CV.pdb
+Y:\RTSPExample\bin\Emgu.CV.pdb
