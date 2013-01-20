@@ -25,3 +25,12 @@ F:\RTSPExample\VideoTest\obj\Debug\VideoTest.Properties.Resources.resources
 F:\RTSPExample\VideoTest\obj\Debug\VideoTest.csproj.GenerateResource.Cache
 F:\RTSPExample\VideoTest\obj\Debug\VideoTest.exe
 F:\RTSPExample\VideoTest\obj\Debug\VideoTest.pdb
+Y:\RTSPExample\VideoTest\obj\Debug\VideoTest.exe
+Y:\RTSPExample\VideoTest\obj\Debug\VideoTest.pdb
+Y:\RTSPExample\bin\Emgu.CV.License.txt
+Y:\RTSPExample\bin\VideoTest.exe
+Y:\RTSPExample\bin\VideoTest.pdb
+Y:\RTSPExample\VideoTest\obj\Debug\ResolveAssemblyReference.cache
+Y:\RTSPExample\VideoTest\obj\Debug\VideoServer.Form1.resources
+Y:\RTSPExample\VideoTest\obj\Debug\VideoTest.Properties.Resources.resources
+Y:\RTSPExample\VideoTest\obj\Debug\VideoTest.csproj.GenerateResource.Cache

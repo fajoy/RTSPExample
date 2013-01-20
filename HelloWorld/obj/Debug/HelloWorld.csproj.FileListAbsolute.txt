@@ -43,3 +43,9 @@ F:\RTSPExample\bin\Example.HelloWorld.pdb
 F:\RTSPExample\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
 F:\RTSPExample\HelloWorld\obj\Debug\Example.HelloWorld.exe
 F:\RTSPExample\HelloWorld\obj\Debug\Example.HelloWorld.pdb
+Y:\RTSPExample\bin\Emgu.CV.License.txt
+Y:\RTSPExample\bin\Example.HelloWorld.exe
+Y:\RTSPExample\bin\Example.HelloWorld.pdb
+Y:\RTSPExample\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+Y:\RTSPExample\HelloWorld\obj\Debug\Example.HelloWorld.exe
+Y:\RTSPExample\HelloWorld\obj\Debug\Example.HelloWorld.pdb

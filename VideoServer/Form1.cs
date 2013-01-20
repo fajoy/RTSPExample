@@ -54,17 +54,6 @@ namespace VideoServer
             rs.addCache(abs_path, vc);
         }
 
-        private void timer1_Tick(object sender, EventArgs e)
-        {
-
-
-        }
-
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
         {
@@ -82,11 +71,11 @@ namespace VideoServer
             VideoCache vc = (VideoCache)e.UserState;
             label1.Text = string.Format("已載入{0}影格", vc.frames.Count);
         }
-        RSTPServer rs = null;
+        RTSPServer rs = null;
         private void button4_Click(object sender, EventArgs e)
         {
             int port = int.Parse(textBox2.Text);
-            rs = new RSTPServer(port);
+            rs = new RTSPServer(port);
             rs.requested += new Action<Socket, string>(rs_requested);
             rs.start();
             button4.Enabled = false;
@@ -182,17 +171,17 @@ namespace VideoServer
         }
     }
 
-    public class RSTPServer
+    public class RTSPServer
     {
         Dictionary<string, RTPPlayer> rps = new Dictionary<string, RTPPlayer>();
         Dictionary<string, VideoCache> vcs = new Dictionary<string, VideoCache>();
 
         public class ClientHandler
         {
-            RSTPServer _server;
+            RTSPServer _server;
             Socket _sock;
             Thread t = null;
-            public ClientHandler(RSTPServer server, Socket sock)
+            public ClientHandler(RTSPServer server, Socket sock)
             {
 
                 this._server = server;
@@ -316,7 +305,7 @@ namespace VideoServer
             }
         }
         public event Action<Socket, string> requested;
-        public RSTPServer(int port)
+        public RTSPServer(int port)
         {
             _port = port;
             ts = new TcpServer(_port);

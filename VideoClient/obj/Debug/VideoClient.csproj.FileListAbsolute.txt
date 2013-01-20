@@ -24,3 +24,11 @@ F:\RTSPExample\VideoClient\obj\Debug\ResolveAssemblyReference.cache
 F:\RTSPExample\VideoClient\obj\Debug\VideoClient.Form1.resources
 F:\RTSPExample\VideoClient\obj\Debug\VideoClient.Properties.Resources.resources
 F:\RTSPExample\VideoClient\obj\Debug\VideoClient.csproj.GenerateResource.Cache
+Y:\RTSPExample\VideoClient\obj\Debug\VideoClient.exe
+Y:\RTSPExample\VideoClient\obj\Debug\VideoClient.pdb
+Y:\RTSPExample\bin\VideoClient.exe
+Y:\RTSPExample\bin\VideoClient.pdb
+Y:\RTSPExample\VideoClient\obj\Debug\ResolveAssemblyReference.cache
+Y:\RTSPExample\VideoClient\obj\Debug\VideoClient.Form1.resources
+Y:\RTSPExample\VideoClient\obj\Debug\VideoClient.Properties.Resources.resources
+Y:\RTSPExample\VideoClient\obj\Debug\VideoClient.csproj.GenerateResource.Cache

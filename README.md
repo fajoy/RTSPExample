@@ -47,14 +47,14 @@ RTSPExample
  - 將VideoFile 轉成 RTP封包 byte存放
 - RTPPlayer
  - 負責發送RTP封包與儲存播放狀態
-- RSTPServer
+- RTSPServer
  - 負責處理Client TCP的RTSP Rquest 並控制RTPPlayer
 
 **客戶端**
 
 - ClientPlayer
  - 負責處理接收到的UDP封包並轉成Image存放進Queue
-- RSTPClient
+- RTSPClient
  - 負責儲存RTSP狀態、RTSP Rquest發送與RTSP Response處理
 
 

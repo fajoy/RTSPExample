@@ -22,3 +22,11 @@ F:\RTSPExample\ModelTest\obj\Debug\ModelTest.Properties.Resources.resources
 F:\RTSPExample\ModelTest\obj\Debug\ModelTest.csproj.GenerateResource.Cache
 F:\RTSPExample\ModelTest\obj\Debug\ModelTest.exe
 F:\RTSPExample\ModelTest\obj\Debug\ModelTest.pdb
+Y:\RTSPExample\ModelTest\bin\Debug\ModelTest.exe
+Y:\RTSPExample\ModelTest\bin\Debug\ModelTest.pdb
+Y:\RTSPExample\ModelTest\obj\Debug\ResolveAssemblyReference.cache
+Y:\RTSPExample\ModelTest\obj\Debug\ModelTest.Form1.resources
+Y:\RTSPExample\ModelTest\obj\Debug\ModelTest.Properties.Resources.resources
+Y:\RTSPExample\ModelTest\obj\Debug\ModelTest.csproj.GenerateResource.Cache
+Y:\RTSPExample\ModelTest\obj\Debug\ModelTest.exe
+Y:\RTSPExample\ModelTest\obj\Debug\ModelTest.pdb
