@@ -26,6 +26,7 @@ RTSPExample
 - Emgu.Util (Emgu CV原始碼)
 - HelloWorld (Emgu CV原始碼 可測試Emgu CV是否正常運作)
 - VideoTest (可測試Emgu CV是否可正常擷取影格)
+- ModelTest (測試封包處理動作)
 - VideoServer (RTSP伺服器)
 - VideoClient (RTSP客戶端)
 
